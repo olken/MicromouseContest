@@ -1,1 +1,6 @@
-Ici tout les codes sources et librairie necessaire au simulateur haut niveau codé en python
+#Simulateur Python
+
+1. **Liste des fichier sources** 
+2. **How to Install**
+  1. Mac/Linux
+  2. Windows
