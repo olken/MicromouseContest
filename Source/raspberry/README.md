@@ -1,6 +1,6 @@
 #Source Raspberry
 
-Les fichiers sources doivent être compilés sur la Raspberry-Pi pour fonctionner, voir Integration/README.md
+Les fichiers sources doivent être compilés sur la Raspberry-Pi pour fonctionner, voir [Integration/README.md](../../Integration/README.md)
 
 ####Liste des fichiers  
   * **SPI.c :**  
